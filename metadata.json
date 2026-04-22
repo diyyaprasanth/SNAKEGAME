@@ -1,0 +1,6 @@
+{
+  "name": "Neon Arcade & Snake Game",
+  "description": "A cyberpunk-themed Snake game combined with a retro-synth music player. Features dark neon aesthetics, an ambient grid, and AI generated demo tracks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
